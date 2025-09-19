@@ -101,23 +101,3 @@ A: We only vibe with legit accounts.
 **Q: Does it auto-aim or auto-bridge?**  
 A: Nah fam, that’s cheat territory.
    This pack is about *skill*, not bots.
-
----
-
-## 🛠️ Mod Line-Up (Core)
-- Sodium
-- Lithium
-- Starlight
-- FerriteCore
-- Krypton
-- EntityCulling
-- LazyDFU
-- Mod Menu
-- Custom Crosshair
-- Better PvP HUD
-
-All tuned for **1.21.x** and beyond.
-
----
-
-## 💾 Folder Vibes
