@@ -50,7 +50,6 @@ Minimalist but clutch.
 This modpack was forged in the fires of Bedwars.
 You spawn, you fight, you win.  
 No farms, no dragons—just *battle royale energy*.
-
 **2️⃣ Grab the Pack.**  
 Hit this big green button 👉  
 [**⬇️ Download Axolotl PVP on Modrinth**](https://modrinth.com/modpack/axolotl-pvp)
@@ -63,6 +62,13 @@ Open the Fabric profile, pick your favorite PvP server,
 and start farming wins.
 
 *Pro Tip:* pair with a good texture pack for that crispy look.
+
+---
+
+## 💬 Join the Community
+Want strats, sneak peeks, or just chill PvP chats?  
+Hop into our Discord:  
+[**👉 Axolotl PVP Discord**](https://discord.com/invite/vmakkbJwE4)
 
 ---
 
