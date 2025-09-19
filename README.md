@@ -1,4 +1,4 @@
-# 🦑 Axolotl PVP
+# 🦑 Axolotl PVP 
 *The Ultimate High-FPS PvP Modpack — Drip Approved*
 
 ---
@@ -29,18 +29,7 @@ Here’s the tea:
   so every click lands exactly when you mean it.
 - **Gen-Z Aesthetic** – Bright, bold, and full of axolotl energy.
   Your screenshots will *pop*.
-
----
-
-## 🗡️ Feature Deep Dive
-### 1. Supreme Performance Stack
-Forget stutters. We packed this with the
-**holy trinity of FPS mods**:
-Sodium for rendering speed,
-Lithium for server logic,
-Starlight for lighting boosts.
-Add FerriteCore + EntityCulling and you’re chilling.
-
+  
 ### 2. Clean Combat HUD
 Everything you need is right where you expect:
 custom crosshair, status effects, and CPS readouts.
@@ -50,6 +39,7 @@ Minimalist but clutch.
 This modpack was forged in the fires of Bedwars.
 You spawn, you fight, you win.  
 No farms, no dragons—just *battle royale energy*.
+
 **2️⃣ Grab the Pack.**  
 Hit this big green button 👉  
 [**⬇️ Download Axolotl PVP on Modrinth**](https://modrinth.com/modpack/axolotl-pvp)
@@ -69,6 +59,11 @@ and start farming wins.
 Want strats, sneak peeks, or just chill PvP chats?  
 Hop into our Discord:  
 [**👉 Axolotl PVP Discord**](https://discord.com/invite/vmakkbJwE4)
+
+### 🕹️ Practice PvP Servers
+Train like a pro on these servers:  
+- **Sword.RIP** – `sword.rip`  
+- **Gamster** – `gamster.org`
 
 ---
 
