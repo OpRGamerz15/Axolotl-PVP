@@ -42,12 +42,9 @@ No farms, no dragons—just *battle royale energy*.
 
 **2️⃣ Grab the Pack.**  
 Hit this big green button 👉  
-[**⬇️ Download Axolotl PVP on Modrinth**](https://modrinth.com/modpack/axolotl-pvp)
+[**⬇️ Download Axolotl PVP on Modrinth**](https://modrinth.com/modpack/axolotl-pvp) 
 
-**3️⃣ Toss into your Mods Folder.**  
-Drop the `.jar` files into `~/.minecraft/mods/`.
-
-**4️⃣ Launch & Dominate.**  
+**2️⃣Launch & Dominate.**  
 Open the Fabric profile, pick your favorite PvP server,
 and start farming wins.
 
