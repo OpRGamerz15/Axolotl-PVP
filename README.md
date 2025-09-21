@@ -62,8 +62,8 @@ Hop into our Discord:
 
 ### 🕹️ Practice PvP Servers
 Train like a pro on these servers:  
-- **Sword.RIP** – ```sword.rip```  
-- **Gamster** – ```gamster.org```
+- **Sword.RIP** – ```sword.rip  
+- **Gamster** – ```gamster.org
 
 ---
 
