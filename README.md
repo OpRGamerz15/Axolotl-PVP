@@ -55,7 +55,7 @@ and start farming wins.
 ## 💬 Join the Community
 Want strats, sneak peeks, or just chill PvP chats?  
 Hop into our Discord:  
-[**👉 Axolotl PVP Discord COMING SOON**](https://modrinth.com/modpack/axolotl-pvp)
+[**👉 Axolotl PVP Discord **](https://modrinth.com/modpack/axolotl-pvp)
 
 ### 🕹️ Practice PvP Servers
 Train like a pro on these servers:  
