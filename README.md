@@ -42,7 +42,7 @@ No farms, no dragons—just *battle royale energy*.
 
 **2️⃣ Grab the Pack.**  
 Hit this big green button 👉  
-[**⬇️ Download Axolotl PVP on Modrinth**](https://modrinth.com/modpack/axolotl-pvp) 
+[**⬇️ Download Axolotl PVP on Modrinth**](https://modrinth.com/modpack/axolotl-pvp+) 
 
 **2️⃣Launch & Dominate.**  
 Open the Fabric profile, pick your favorite PvP server,
@@ -55,7 +55,7 @@ and start farming wins.
 ## 💬 Join the Community
 Want strats, sneak peeks, or just chill PvP chats?  
 Hop into our Discord:  
-[**👉 Axolotl PVP Discord **](https://modrinth.com/modpack/axolotl-pvp)
+[**👉 Axolotl PVP Discord **](https://dcserver.link/nexterasmp))
 
 ### 🕹️ Practice PvP Servers
 Train like a pro on these servers:  
