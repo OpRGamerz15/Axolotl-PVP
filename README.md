@@ -1,4 +1,4 @@
-# 🦑 Axolotl PVP 
+# 🦑 Axolotl PVP+ 
 *The Ultimate High-FPS PvP Modpack — Drip Approved*
 
 ---
